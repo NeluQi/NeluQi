@@ -1,5 +1,5 @@
 ### Hi there 👋, i am Nelu
-![](https://github.com/NeluQi/NeluQi/blob/master/baner.png?raw=true)
+![image](https://user-images.githubusercontent.com/16963395/140625939-45515cad-77f6-4d78-86c0-5ac09c7510ca.png)
 
 I made this project just for fun. Basically, here are collected repositories related to studying at the university
 
