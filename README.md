@@ -1,5 +1,5 @@
 ### Hi there 👋, i am Nelu
-![](baner.png)
+![](https://github.com/NeluQi/NeluQi/blob/master/baner.png?raw=true)
 
 I made this project just for fun. Basically, here are collected repositories related to studying at the university
 
