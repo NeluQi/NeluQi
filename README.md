@@ -6,7 +6,6 @@ I made this project just for fun. Basically, here are collected repositories rel
 Main skills: Vue.js / C#
 
 - 🔭 I’m currently working on vue3 web applications 
-- 👯 I’m looking to collaborate on Google 
 - ⚡ Fun fact: ~~writing a description of your GitHub is harder than coming up with a description in Tinder~~ 
 
 
