@@ -18,6 +18,4 @@ TECH STACK:
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=NeluQi&show_icons=true)  
 
-![Profile views](https://gpvc.arturio.dev/NeluQi)  
-
 
