@@ -16,3 +16,5 @@ Main skills: Vue.js / C#
 
 
 <a href="https://wakatime.com"><img src="https://wakatime.com/share/@Nelu/832a691c-2544-4566-ad32-b3901d282d3b.png" /></a>
+
+<a href="https://wakatime.com"><img src="https://wakatime.com/share/@Nelu/63a6e516-3779-4500-a72e-b7d6e73b6389.png" /></a>
