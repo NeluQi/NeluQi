@@ -7,6 +7,7 @@ I made this project just for fun. Basically, here are collected repositories rel
 
 Main skills: Vue.js / C#
 
+<a href="https://wakatime.com"><img src="https://wakatime.com/share/@Nelu/56b6b322-558b-49d0-89ef-91ea3ace73a5.png" /></a>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NeluQi)](https://github.com/anuraghazra/github-readme-stats)
 
@@ -19,4 +20,4 @@ Main skills: Vue.js / C#
 
 <a href="https://wakatime.com"><img src="https://wakatime.com/share/@Nelu/63a6e516-3779-4500-a72e-b7d6e73b6389.png" /></a>
 
-<a href="https://wakatime.com"><img src="https://wakatime.com/share/@Nelu/56b6b322-558b-49d0-89ef-91ea3ace73a5.png" /></a>
+
