@@ -19,3 +19,4 @@ TECH STACK:
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=NeluQi&show_icons=true)  
 
 
+<a href="https://wakatime.com"><img src="https://wakatime.com/share/@fac309f1-20b7-4d5d-b9d8-ecf864594486/a05fe28f-d64b-470b-b6b7-0a5566853acc.png" /></a>
