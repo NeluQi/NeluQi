@@ -10,7 +10,8 @@ Contact me: [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoC
 
 # 📊 Stats:
 ![](https://github-readme-stats.vercel.app/api?username=NeluQi&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-<a href="https://wakatime.com"><img src="https://wakatime.com/share/@Nelu/391d62de-8b05-401e-869c-1d0c43573452.png" /></a>
+
+<a href="https://wakatime.com"><img src="https://wakatime.com/share/@Nelu/7d9611d8-36cf-4c65-afe3-9dad0a51c996.png" /></a>
 ---
 
 
